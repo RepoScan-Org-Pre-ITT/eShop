@@ -140,3 +140,6 @@ The sample catalog data is defined in [catalog.json](https://github.com/dotnet/e
 ## eShop on Azure
 
 For a version of this app configured for deployment on Azure, please view [the eShop on Azure](https://github.com/Azure-Samples/eShopOnAzure) repo.
+
+
+<!-- Updated at 2026-09-06T14:53:40.933Z -->
